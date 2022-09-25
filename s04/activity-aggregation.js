@@ -1,15 +1,15 @@
 /* 1 */
 {
     "_id" : 312456,
-    "EmployeeName" : "Joongki Song",
+    "EmployeeName" : "Oli Cooper",
     "EmployeeAge" : 28,
-    "JobRole" : "Store Manager",
+    "JobRole" : "Migs Grey",
     "Salary" : 120000
 }
 /* 2 */
 {
     "_id" : 345342,
-    "EmployeeName" : "Joongkuk Jeon",
+    "EmployeeName" : "Donny Stone",
     "EmployeeAge" : 25,
     "JobRole" : "Store Associate",
     "Salary" : 45000
@@ -17,7 +17,7 @@
 /* 3 */
 {
     "_id" : 334566,
-    "EmployeeName" : "Jin Kim",
+    "EmployeeName" : "Daniel Ford",
     "EmployeeAge" : 35,
     "JobRole" : "Cashier",
     "Salary" : 67500
@@ -25,7 +25,7 @@
 /* 4 */
 {
     "_id" : 245345,
-    "EmployeeName" : "Hyekyo Song",
+    "EmployeeName" : "Kath Valdez",
     "EmployeeAge" : 40,
     "JobRole" : "Senior Cashier",
     "Salary" : 72500
@@ -33,7 +33,7 @@
 /* 5 */
 {
     "_id" : 445364,
-    "EmployeeName" : "Tae Hyung Kim",
+    "EmployeeName" : "Julia Martins",
     "EmployeeAge" : 22,
     "JobRole" : "Store Associate",
     "Salary" : 35000
