@@ -4,7 +4,7 @@
     "name" : "HTML Basics",
     "price" : 20000,
     "isActive" : false,
-    "instructor" : "Sir Josh"
+    "instructor" : "Sir Alvin"
 }
 
 /* 2 */
@@ -13,7 +13,7 @@
     "name" : "CSS 101 + Flexbox",
     "price" : 21000,
     "isActive" : true,
-    "instructor" : "Sir Josh"
+    "instructor" : "Sir Alvin"
 }
 
 /* 3 */
@@ -22,7 +22,7 @@
     "name" : "Git 101, IDE and CLI",
     "price" : 19000,
     "isActive" : false,
-    "instructor" : "Ma'am Kris"
+    "instructor" : "Ma'am Tine"
 }
 
 //db.courses.find({$and:[{"instructor":{$eq:"Sir Alvin"}},{"price":{$gte: 20000}}]})
